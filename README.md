@@ -8,6 +8,10 @@
 
 ## Canvas
 - https://codepen.io/creativeocean/pen/ErxqMz
+- https://codepen.io/isuttell/pen/xbwrxB
+- https://codepen.io/mariandev/pen/waPbJB
+- https://codepen.io/tmrDevelops/pen/YwGMjW
+- https://codepen.io/whqet/pen/zvKeeV
 
 ## Loading/Spinner
 - https://codepen.io/vdel26/pen/rKpzg
