@@ -22,3 +22,6 @@
 - https://codepen.io/inkdev1/pen/qggJex
 - https://codepen.io/fabax/pen/JmOaPg?editors=1010
 - https://codepen.io/christhuong/pen/XxzNWK?editors=1010
+
+## Menu Effect
+- https://codepen.io/MoustafaJazzar/pen/QWwmzMM?editors=0110
